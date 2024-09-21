@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s3-us-west-2.amazonaws.com/cbi-image-service-prd/modified/55a9f58d-76e9-4e06-acab-5888722fa4a1.png" width="30%" />
+<img src="https://miro.medium.com/v2/resize:fit:774/1*A_pij9B97wY5UDeQHl6E0A.png" width="30%" />
 </p>
 
 </br>
