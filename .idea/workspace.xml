@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="126c3780-e9f4-4569-9227-da0f28ede296" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/codewars/katas/7kyu/Ones and Zeros.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/testts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/test/testts.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/codewars/katas/7kyu/Figurate Numbers #2 - Pronic Number.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -34,8 +34,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Node.js.testjs.js.executor": "Run",
     "Node.js.testts.ts.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "com.codeium.enabled": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/github projects/problems",
@@ -52,7 +54,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-WS-242.23726.96" />
+        <option value="bundled-js-predefined-d6986cc7102b-e768b9ed790e-JavaScript-WS-243.21565.180" />
       </set>
     </attachedChunks>
   </component>
@@ -66,7 +68,13 @@
       <updated>1731141988982</updated>
       <workItem from="1731141990026" duration="260000" />
       <workItem from="1731182640445" duration="20000" />
-      <workItem from="1731200514999" duration="868000" />
+      <workItem from="1731200514999" duration="1992000" />
+      <workItem from="1732100651296" duration="756000" />
+      <workItem from="1732106044619" duration="12000" />
+      <workItem from="1732588468513" duration="2000" />
+      <workItem from="1732588666943" duration="9000" />
+      <workItem from="1732629435840" duration="488000" />
+      <workItem from="1732830399618" duration="485000" />
     </task>
     <servers />
   </component>
